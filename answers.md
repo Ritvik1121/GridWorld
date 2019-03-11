@@ -35,4 +35,4 @@ PART 2
 
 exercises
 1. The bug makes the shape of a octogon shape that's supposed to be a circle.
-2. 
+ 5. Create a new bug. then use the world.add feature to add it somewhere in the world.

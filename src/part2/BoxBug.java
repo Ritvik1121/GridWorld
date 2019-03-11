@@ -16,7 +16,7 @@
  * @author Barbara Cloud Wells
  */
 
-package part2;
+//package part2;
 
 import info.gridworld.actor.Bug;
 
@@ -50,6 +50,7 @@ public class BoxBug extends Bug {
 		} else {
 			turn();
 			turn();
+			//sideLength++;
 			steps = 0;
 		}
 	}
