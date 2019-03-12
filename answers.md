@@ -77,4 +77,20 @@ return (neighbor == null) || (neighbor instanceof Flower);
 9. when you use removeSelfFromGrid method it won't this method is from the actor class
 10. Flower flower = new Flower(getColor());
 flower.putSelfInGrid(gr, loc); 
-11. four times
+11. four times'
+
+Group Activity
+a. turn
+b. turn
+c. turn
+d. turn
+e. if the other jumper is one space in front the jumper will jump.
+f.  
+
+a. Bug
+b. Bug, Jumper is still a bug that just moves two spaces
+c. Yes, no parameters are needed
+d. act() move() canMove()
+e. none
+f. Set up an "obtacle course on the grid and see how the jumper functions
+
